@@ -6,3 +6,12 @@ Este proyecto incluye dos ejercicios de lógica en **Java**, cada uno utilizando
 
 - **Lenguaje**: Java
 - **Estructuras de Datos**: Listas, Mapas
+---
+# Java Logic Exercises
+
+This project includes two logic exercises in **Java***, each using different data structures to solve specific problems. Exercises focus on the use of **Lists** and **Maps**.
+
+## 🛠️ Technologies Used
+
+- **Language**: Java
+- **Data Structures**: Lists, Maps
